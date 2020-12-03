@@ -2,6 +2,7 @@
 
 * Replacement Parts: Wheel hubs, wheels, treads, lift arms, body boards, back pack boards, ears, gears, etc.
 * A [listing 3D printable parts](https://www.yeggi.com/q/anki+vector+robot/)
+* 3D printed chargers sold at [this Etsy shop](https://www.etsy.com/shop/3DCdesignsShop)
 
 ## Cube service
 
